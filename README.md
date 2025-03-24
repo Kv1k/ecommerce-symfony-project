@@ -1,5 +1,5 @@
 # ecommerce-symfony-project
-Project to be carried out in Symfony and ansible as part of my training at Epitech in 2023
+Project to be carried out in Symfony and Ansible as part of my training at Epitech in 2023
 
 Installation d'Ansible : sudo apt-get -y install ansible
 
